@@ -1,2 +1,4 @@
 Tomato
 cheese
+capsicum
+Oregano
